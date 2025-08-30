@@ -18,18 +18,17 @@ It provides REST APIs for authentication, data storage, and other business logic
 
 
 ## ⚙️ Installation
-```bash
 # Clone the repo
-git clone https://github.com/ayushrai26/ShopperStore-backend.git
+git clone https://github.com/ayushrai26/ShopperStore-backend-.git
 cd server
 
 # Install dependencies
 npm install
 
 # Start server
-npm run dev
+node server.js
 
-```
+
 
 # Folder Structure
 ```
