@@ -28,6 +28,9 @@ npm install
 # Start server
 node server.js
 
+# Related Repositories
+
+- [Frontend Repo](https://github.com/ayushrai26/ShopperStore-frontend-.git)
 
 
 # Folder Structure
@@ -44,9 +47,7 @@ server
    │  ├─ auth.js
    │  └─ token.js
    └─ server.js
-```
 
-# Related Repositories
-```
-- [Frontend Repo](https://github.com/ayushrai26/ShopperStore-frontend)
+
+
 
