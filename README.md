@@ -20,6 +20,7 @@ It provides REST APIs for authentication, data storage, and other business logic
 ## ⚙️ Installation
 # Clone the repo
 git clone https://github.com/ayushrai26/ShopperStore-backend-.git
+
 cd server
 
 # Install dependencies
